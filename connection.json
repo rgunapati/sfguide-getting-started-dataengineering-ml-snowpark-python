@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account"   : "ol12503.ca-central-1.aws",
+  "user"      : "rgunapati",
+  "password"  : "SnowMaster8*",
+  "role"      : "sysadmin",
+  "warehouse" : "dash_l",
+  "database"  : "dash_db",
+  "schema"    : "dash_schema"
 }
